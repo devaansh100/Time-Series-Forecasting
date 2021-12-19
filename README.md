@@ -7,4 +7,4 @@ For this purpose, 5 models were trained - the AR, MA, ARMA, ARIMA and SARIMA.
 
 The code reads all the data, transforms it into the necessary format, trains the 5 models and finally plots and saves the output forecasts, along with three evaluation metrics for each model.
 
-The parameters of the model were chosen by a close examincation of the autocorrelation and partial autocorrelation pltos of the datasets.
+The parameters of the model were chosen by a close examination of the autocorrelation and partial autocorrelation pltos of the datasets.
